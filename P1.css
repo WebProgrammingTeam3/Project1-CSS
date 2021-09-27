@@ -40,6 +40,29 @@ a {
     margin: 10px;
     text-decoration: none;
     padding-right: 100px;
-
-
 }
+
+<!--Ryan Salter did this>
+a:visited {
+    background-color: goldenrod;
+}
+
+a:hover{
+    background-color: red;
+    color: whitesmoke;
+}
+
+a:active{
+    background-color: palevioletred;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+

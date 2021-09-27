@@ -57,6 +57,14 @@ a:active{
     color: whitesmoke;
 }
 
+.picLink{
+	background-color: unset;
+	border: unset;
+	padding-left: inherit;
+	padding-right: inherit;
+	margin: inherit;
+}
+
 
 
 

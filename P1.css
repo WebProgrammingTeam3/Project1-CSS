@@ -1,0 +1,46 @@
+html, body {
+    height:100%;
+    /* Disable Scroll */
+    overflow:hidden;
+}
+
+body {
+    background-color: skyblue;
+}
+
+
+img {
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+div {
+    height: 100%
+}
+
+h1 {
+    height: 200px;
+    width: 75%;
+    background-color: greenyellow;
+    border: solid 10px black;
+    padding-top: 50px;
+    font-size: 80px;
+    
+
+}
+
+a {
+    background-color: cyan;
+    font-size: 30px;
+    color: black;
+    border: solid 5px black;
+    padding-left: 100px;
+    margin: 10px;
+    text-decoration: none;
+    padding-right: 100px;
+
+
+}
+

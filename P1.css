@@ -10,10 +10,10 @@ body {
 
 
 img {
-    float: left;
+    /*float: left;
     width:  200px;
     height: 200px;
-    object-fit: cover;
+    object-fit: cover;*/
 }
 
 div {
@@ -40,6 +40,37 @@ a {
     margin: 10px;
     text-decoration: none;
     padding-right: 100px;
-
-
 }
+
+/* Ryan Salter did this */
+a:visited {
+    background-color: goldenrod;
+}
+
+a:hover{
+    background-color: red;
+    color: whitesmoke;
+}
+
+a:active{
+    background-color: palevioletred;
+    color: whitesmoke;
+}
+
+.picLink{
+	background-color: none;
+	border: none;
+	padding-left: none;
+	padding-right: none;
+	margin: inherit;
+}
+
+
+
+
+
+
+
+
+
+

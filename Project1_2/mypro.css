@@ -58,9 +58,9 @@ body,html {
 }
 
 .button2 img{
-	border: 1px solid black;
+	border: 0px solid black;
 	vertical-align: bottom;
-	width: 200px;
+	width: 275px;
 	height: 200px;
 }
 
@@ -96,9 +96,9 @@ body,html {
 }
 
 .button3 img{
-	border: 1px solid black;
+	border: 0px solid black;
 	vertical-align: bottom;
-	width: 200px;
+	width: 343px;
 	height: 200px;
 }
 

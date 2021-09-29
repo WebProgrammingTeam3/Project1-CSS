@@ -135,7 +135,7 @@ body,html {
 }
 
 .picture{
-	border: 0px solid black;
+	border: 2px solid black;
 	width: 200px;
 	height: 200px;
 }
